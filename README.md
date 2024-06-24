@@ -1,8 +1,8 @@
 # PACMAN Lab Guide
 
-![Build documentation with mkdocs](https://github.com/thu-pacman/lab-guide/workflows/Build%20documentation%20with%20mkdocs/badge.svg)
+![Build documentation with mkdocs](https://github.com/pris-cv)
 
-本文档为 PACMAN 实验室指南，采用 `mkdocs` 编写。
+本文档为 Pris-CV Group指南，采用 `mkdocs` 编写。
 
 本站点的自动编译版本在 [这里](https://pacman.cs.tsinghua.edu.cn/guide/) 发布。
 
